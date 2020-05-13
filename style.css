@@ -46,6 +46,8 @@ a {
 	align-items: start;
 	justify-content: center;
 	height: 40vh;
+	margin-top: 50px; 
+	margin-bottom: 30px;
 }
 
 .grid-wrapper{
