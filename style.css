@@ -1,8 +1,7 @@
 
-font-family: 'DM Mono', monospace;
-
 body {
 	margin: auto 0;
+	font-family: 'Playfair Display', serif;
 }
 
 .main-nav {
