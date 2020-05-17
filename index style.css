@@ -1,4 +1,4 @@
-/*Jai Bhole Nath*/
+
 body {
 	margin: auto 0;
 	font-family: 'Playfair Display', serif;
@@ -80,11 +80,30 @@ a {
 	font-size: 40px;
 }
 
-footer {
+/*footer {
 	clear: both;
-	padding: 100px;
+	padding: 10px;
 	color: #FF0A0A;
-	font-size: 25px;
+	border-top: 5px dashed #FF0A0A;
+	font-size: 15px;
 	text-align: center;
 	text-decoration: underline;
+}*/	
+
+#div1 {
+	padding: 10px;
+	background-color: #FFD4D4;
+	color: #FF0A0A;
+	border-top: 3px dashed #FF0A0A;
+	font-size: 15px;
+	text-align: center;
 }	
+
+#div2 {
+	padding: 10px;
+	background-color: #FFD4D4;
+	color: #FF0A0A;
+	border-top: 3px dashed #FF0A0A;
+	font-size: 15px;
+	text-align: right;
+}

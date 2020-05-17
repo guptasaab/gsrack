@@ -1,0 +1,110 @@
+/*Jai Bhole Nath*/
+body {
+	margin: auto 0;
+}
+
+.main-nav {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	/*display: flex;*/
+	background-color: #FFD4D4;
+	list-style: none;
+	margin: 0;
+	font-family: sans-serif georgia;
+	font-size: 3em;
+	text-align: center;
+	text-decoration: underline;
+	box-shadow: 4px 4px 5px #455555;
+}
+
+/*.container	{
+	margin-top: 100px;
+}*/
+/*img {
+	width: 300px;
+	height: 200px;
+}
+
+.box {
+	font-size: 30px;
+	border: 3px solid black;
+	padding: 2px;
+	display: flex;
+	direction: start;
+	align-items: center;
+	justify-content: space-between;
+
+}
+
+.bottom {
+	font-size: 20px;
+	margin: 5px;
+	padding: 5px;  
+}*/
+
+/*a {
+	color: #FF0A0A;
+	text-decoration: underline;
+}*/
+
+/*footer {
+	
+	padding: 100px;
+	color: #FF0A0A;
+	font-size: 15px;
+	text-align: center;
+	text-decoration: underline;
+}*/	
+
+p {
+	padding-left: 20px;
+    border: 3px solid black;
+	font-size: 40px;
+	text-align: center;
+	cursor: pointer;
+
+}
+
+h2 {
+	padding: 3px;
+	text-align: left;
+	justify-content: center;
+
+}
+
+img	{
+	padding: 10px;
+	border-radius: 50px;
+	float: right;
+}
+
+.button {
+	font-size: 20px;
+	  background-color: #f44336;
+	  color: black; 
+	  border: 2px solid #f44336;
+}
+
+.button:hover {
+  background-color: white;
+  color: #f44336;
+
+}
+#div1 {
+	padding: 10px;
+	background-color: #FFD4D4;
+	color: #FF0A0A;
+	border-top: 3px dashed #FF0A0A;
+	font-size: 15px;
+	text-align: center;
+}	
+
+#div2 {
+	padding: 10px;
+	background-color: #FFD4D4;
+	color: #FF0A0A;
+	border-top: 3px dashed #FF0A0A;
+	font-size: 15px;
+	text-align: right;
+}
