@@ -1,4 +1,4 @@
-/*Jai Bhole Nath*/
+
 body {
 	margin: auto 0;
 	font-family: 'Playfair Display', serif;
@@ -48,6 +48,11 @@ a {
 	height: 40vh;
 	margin-top: 50px; 
 	margin-bottom: 30px; 
+}
+
+marquee {
+	background-color: yellow;
+	
 }
 
 .grid-wrapper{
