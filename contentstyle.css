@@ -1,3 +1,4 @@
+<<<<<<< HEAD:contentstyle.css
 /*Jai Bhole Nath*/
 body {
 	margin: auto 0;
@@ -82,3 +83,63 @@ img {
 	font-size: 15px;
 	text-align: right;
 }
+=======
+/*Jai Bhole Nath*/
+body {
+	margin: auto 0;
+	font-family: 'Playfair Display', serif;
+}
+
+.main-nav {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	display: flex;
+	background-color: #FF0A0A;
+	list-style: none;
+	margin: 0;
+	font-family: sans-serif georgia;
+	font-size: 5em;
+	text-align: center;
+	box-shadow: 4px 4px 5px #455555;
+}
+
+.container	{
+	margin-top: 100px;
+}
+img {
+	width: 300px;
+	height: 200px;
+}
+
+.box {
+	font-size: 30px;
+	border: 3px solid black;
+	padding: 2px;
+	display: flex;
+	direction: start;
+	align-items: center;
+	justify-content: space-between;
+
+}
+
+.bottom {
+	font-size: 20px;
+	margin: 5px;
+	padding: 5px;  
+}
+
+a {
+	color: #FF0A0A;
+	text-decoration: underline;
+}
+
+footer {
+	
+	padding: 100px;
+	color: #FF0A0A;
+	font-size: 15px;
+	text-align: center;
+	text-decoration: underline;
+}	
+>>>>>>> 10c24e6b76b1ff99274e83435d3bb3be4b54c104:style.css
